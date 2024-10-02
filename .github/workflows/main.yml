@@ -6,7 +6,7 @@ on:
 
 env:
   ECR_REPOSITORY: milstone-project
-  EKS_CLUSTER_NAME: eks-git
+  EKS_CLUSTER_NAME: eks-gitaction
   AWS_REGION: ap-south-1
 
 jobs:
